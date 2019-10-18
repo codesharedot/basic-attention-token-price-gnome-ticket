@@ -15,6 +15,6 @@ def get_price():
     price = float(price_trimmed)
     return price
 
-print("BAT ${usb} | iconName=invest-applet".format(usb=get_price()))
+print("BAT ${usd} | iconName=invest-applet".format(usd=get_price()))
 print("---")
 print("Last checked: " + datetime.now().strftime("%H:%M:%S"))
