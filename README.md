@@ -1,9 +1,8 @@
-# basic-attention-token price gnome ticket 
+# basic-attention-token gnome price ticker
 
-Gnome 3 desktop ticker for basic-attention-token price with Python and argos. 
-The filename defines the update clock (60s for once a minute).
+Get basic-attention-token price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/basic-attention-token-price-gnome-ticket/](https://codesharedot.github.io/basic-attention-token-price-gnome-ticket/)
 
-* Rename to basic-attention-token.1r.60s.py 
-* put in ~/.config/argos
+basic-attention-token price ticker for Gnome desktop. Gets the price with Python and argos.
 
-https://pythonbasics.org
+Rename to basic-attention-token.1r60s.py and put in ~/.config/argos
